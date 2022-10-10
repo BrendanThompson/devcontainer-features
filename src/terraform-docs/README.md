@@ -17,7 +17,7 @@ Terraform Docs
 
 | Options Id | Description | Type | Default Value |
 |-----|-----|-----|-----|
-| version | - | string | 0.16.0 |
+| version | - | string | latest |
 
 
 
