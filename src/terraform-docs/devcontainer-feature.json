@@ -6,8 +6,8 @@
   "options": {
     "version": {
       "type": "string",
-      "enum": ["0.16.0"],
-      "default": "0.16.0"
+      "enum": ["latest", "0.16.0"],
+      "default": "latest"
     }
   }
 }
