@@ -1,0 +1,13 @@
+{
+  "name": "Terraform Language Server",
+  "id": "terraform-ls",
+  "version": "1.0.0",
+  "description": "Terraform Language Server",
+  "options": {
+    "version": {
+      "type": "string",
+      "enum": ["latest", "0.29.2"],
+      "default": "latest"
+    }
+  }
+}
